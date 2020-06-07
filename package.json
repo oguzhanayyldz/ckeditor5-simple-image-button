@@ -1,0 +1,26 @@
+{
+  "name": "ckeditor-5-simple-image-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhanayyldz/ckeditor5-simple-image-button.git"
+  },
+  "author": "Oğuzhan Ayyıldız",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhanayyldz/ckeditor5-simple-image-button/issues"
+  },
+  "homepage": "https://github.com/oguzhanayyldz/ckeditor5-simple-image-button#readme",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^19.0.1",
+    "@ckeditor/ckeditor5-engine": "^19.0.1",
+    "@ckeditor/ckeditor5-image": "^19.0.1",
+    "@ckeditor/ckeditor5-ui": "^19.0.1"
+  }
+}
